@@ -1,2 +1,2 @@
 def greeting():
-    return "hello friend"
+    return "hello BEST friend"
